@@ -1,2 +1,4 @@
 name: web programming
 markdown: kramdown
+
+permalink: /blog/:2021/:10/:07/:index.html
