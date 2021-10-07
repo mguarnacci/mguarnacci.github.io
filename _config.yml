@@ -1,4 +1,4 @@
-name: web programming
+rname: web programming
 markdown: kramdown
 
-permalink: /blog/:2021/:10/:07/:index.html
+permalink: /blog/:year/:month/:day/:title
